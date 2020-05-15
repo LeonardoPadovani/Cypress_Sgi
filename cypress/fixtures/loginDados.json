@@ -1,0 +1,19 @@
+{
+    "usuValido": {
+        "email": "leonardo.padovani@engegraph.com.br",
+        "senha": "123456"
+    },
+
+    "usuEmailInvalido": {
+        "email": "teste@engegraph.com.br",
+        "senha": "123456"
+    },
+
+    "usuSenhaInvalida": {
+        "email": "leonardo.padovani@engegraph.com.br",
+        "senha": "abrdef"
+    }
+
+
+}
+
